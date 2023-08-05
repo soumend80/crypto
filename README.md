@@ -1,1 +1,1 @@
-# Some crypto-related dune dashboards
+# Some crypto-related staff
